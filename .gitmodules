@@ -6,3 +6,7 @@
 	path = espeleorobo-raspberry
 	url = https://github.com/ITVRoC/espeleorobo-raspberry.git
 	branch = master
+[submodule "espeleorobo-rugged"]
+	path = espeleorobo-rugged
+	url = https://github.com/ITVRoC/espeleorobo-rugged.git
+	branch = master
