@@ -10,3 +10,7 @@
 	path = espeleorobo-rugged
 	url = https://github.com/ITVRoC/espeleorobo-rugged.git
 	branch = master
+[submodule "espeleorobo-arduino"]
+	path = espeleorobo-arduino
+	url = https://github.com/ITVRoC/espeleorobo-arduino.git
+	branch = master
