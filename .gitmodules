@@ -2,3 +2,7 @@
 	path = espeleorobo-nuc
 	url = https://github.com/ITVRoC/espeleorobo-nuc.git
 	branch = master
+[submodule "espeleorobo-raspberry"]
+	path = espeleorobo-raspberry
+	url = https://github.com/ITVRoC/espeleorobo-raspberry.git
+	branch = master
