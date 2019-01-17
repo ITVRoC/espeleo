@@ -14,3 +14,7 @@
 	path = espeleorobo-arduino
 	url = https://github.com/ITVRoC/espeleorobo-arduino.git
 	branch = master
+[submodule "can-driver-files"]
+	path = can-driver-files
+	url = https://github.com/ITVRoC/can-driver-files.git
+	branch = master
