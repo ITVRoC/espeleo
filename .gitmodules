@@ -1,0 +1,4 @@
+[submodule "espeleorobo-nuc"]
+	path = espeleorobo-nuc
+	url = https://github.com/ITVRoC/espeleorobo-nuc.git
+	branch = master
