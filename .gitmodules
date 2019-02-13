@@ -14,3 +14,6 @@
 	path = can-driver-files
 	url = https://github.com/ITVRoC/can-driver-files.git
 	branch = master
+[submodule "espeleo_arduino"]
+	path = espeleo_arduino
+	url = https://github.com/ITVRoC/espeleo_arduino.git
