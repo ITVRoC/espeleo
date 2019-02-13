@@ -1,11 +1,3 @@
-[submodule "espeleorobo-nuc"]
-	path = espeleorobo-nuc
-	url = https://github.com/ITVRoC/espeleorobo-nuc.git
-	branch = master
-[submodule "espeleorobo-raspberry"]
-	path = espeleorobo-raspberry
-	url = https://github.com/ITVRoC/espeleorobo-raspberry.git
-	branch = master
 [submodule "espeleorobo-rugged"]
 	path = espeleorobo-rugged
 	url = https://github.com/ITVRoC/espeleorobo-rugged.git
@@ -17,3 +9,9 @@
 [submodule "espeleo_arduino"]
 	path = espeleo_arduino
 	url = https://github.com/ITVRoC/espeleo_arduino.git
+[submodule "espeleo_raspberry"]
+	path = espeleo_raspberry
+	url = https://github.com/ITVRoC/espeleo_raspberry.git
+[submodule "espeleo_nuc"]
+	path = espeleo_nuc
+	url = https://github.com/ITVRoC/espeleo_nuc.git
