@@ -1,7 +1,3 @@
-[submodule "espeleorobo-rugged"]
-	path = espeleorobo-rugged
-	url = https://github.com/ITVRoC/espeleorobo-rugged.git
-	branch = master
 [submodule "can-driver-files"]
 	path = can-driver-files
 	url = https://github.com/ITVRoC/can-driver-files.git
@@ -15,3 +11,6 @@
 [submodule "espeleo_nuc"]
 	path = espeleo_nuc
 	url = https://github.com/ITVRoC/espeleo_nuc.git
+[submodule "espeleo_rugged"]
+	path = espeleo_rugged
+	url = https://github.com/ITVRoC/espeleo_rugged.git
