@@ -1,4 +1,4 @@
-# Espeleo instalation guide
+## Espeleo instalation guide
 
 ### INSTALL ON ESPELEO
 
