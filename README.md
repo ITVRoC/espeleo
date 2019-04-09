@@ -2,7 +2,7 @@
 
 ### INSTALL ON ESPELEO
 
-#### Install the PCAN drivers on espeleo, follow the guide bellow:
+#### Install the PCAN drivers to use CAN, follow the guide bellow:
  - https://github.com/ITVRoC/espeleo/wiki/PCAN-driver-installation
 
 #### Install the ROS_EPOSMCD to control the motors, follow the readme on link bellow:
