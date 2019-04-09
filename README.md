@@ -1,4 +1,4 @@
-## Espeleo instalation guide
+## Repository with all tutorials and packages to use Espeleo
 
 ### INSTALL ON ESPELEO
 
