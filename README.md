@@ -11,7 +11,8 @@
 #### Install the ESPELEO_IO to control the IOs, follow the readme on link bellow:
  - https://github.com/ITVRoC/espeleo_io
  
- 
+#### Install the ESPELEO_TELEOP to control the espeleo with joystick and keyboard, follow the readme on link bellow:
+ - https://github.com/ITVRoC/espeleo_teleop
  
  
  ### INSTALL ON NOTEBOOK
