@@ -5,7 +5,7 @@ This repository lists all EspeleoRobo's related repositories and wikis.
 ---------------------------------------------------------
 # INSTALL ON ESPELEO 
 
-All packages installed on EspeleoRobo's embedded computer.
+Packages for EspeleoRobo's embedded computer.
 
 ## FOR LOCOMOTION
 
@@ -36,12 +36,16 @@ All packages installed on EspeleoRobo's embedded computer.
  --------------------------------------------------------
  # INSTALL ON BASE COMPUTER
  
+ Packages for base computer.
+ 
  ### GUI Interface for ESPELEO
  
  - https://github.com/ITVRoC/espeleo_gui
  
  --------------------------------------------------------
  # FOR SIMULATION
+ 
+ Packages for simulating EspeleoRobo.
  
  ### EspeleoRobo V-REP's models:
  - https://github.com/ITVRoC/espeleo_vrep_simulation
