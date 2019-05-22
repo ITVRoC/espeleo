@@ -29,7 +29,7 @@ Packages for EspeleoRobo's embedded computer.
 ### Install the XSENS IMU driver:
  - https://github.com/ITVRoC/general-wiki/wiki/Rodar-IMU-XSens-no-ROS
  
-#### Install the Ouster 16 Lidar package on ROS:
+### Install the Ouster 16 Lidar package on ROS:
  - https://github.com/ITVRoC/general-wiki/wiki/Rodar-o-LiDAR-OUSTER-16-no-ROS
  
 
