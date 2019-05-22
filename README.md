@@ -1,26 +1,47 @@
-## Repository with all tutorials and packages to use Espeleo
+# EspeleoRobo's Main Repository
 
-### INSTALL ON ESPELEO - FOR LOCOMOTION
+This repository lists all EspeleoRobo's related repositories and wikis. 
 
-#### Install the PCAN drivers to use CAN, follow the guide bellow:
+---------------------------------------------------------
+# INSTALL ON ESPELEO 
+
+All packages installed on EspeleoRobo's embedded computer.
+
+## FOR LOCOMOTION
+
+### PCAN drivers to use CAN:
  - https://github.com/ITVRoC/espeleo/wiki/PCAN-driver-installation
 
-#### Install the ROS_EPOSMCD to control the motors, follow the readme on link bellow:
+### ROS_EPOSMCD to control the motors:
  - https://github.com/ITVRoC/ros_eposmcd
  
-#### Install the ESPELEO_IO to control the IOs, follow the readme on link bellow:
+### ESPELEO_IO to control the IOs:
  - https://github.com/ITVRoC/espeleo_io
  
-#### Install the ESPELEO_TELEOP to control the espeleo with joystick and keyboard, follow the readme on link bellow:
+### ESPELEO_TELEOP to control the espeleo with joystick and keyboard:
  - https://github.com/ITVRoC/espeleo_teleop
  
+### ESPELEO_LOCOMOTION package 
+ - https://github.com/ITVRoC/espeleo_locomotion
  
-### INSTALL ON ESPELEO - FOR LOCALIZATION AND MAPPING
+## FOR LOCALIZATION AND MAPPING
 
-#### Install the XSENS IMU driver:
+### Install the XSENS IMU driver:
  - https://github.com/ITVRoC/general-wiki/wiki/Rodar-IMU-XSens-no-ROS
  
 #### Install the Ouster 16 Lidar package on ROS:
  - https://github.com/ITVRoC/general-wiki/wiki/Rodar-o-LiDAR-OUSTER-16-no-ROS
  
- ### INSTALL ON NOTEBOOK
+
+ --------------------------------------------------------
+ # INSTALL ON BASE COMPUTER
+ 
+ ### GUI Interface for ESPELEO
+ 
+ - https://github.com/ITVRoC/espeleo_gui
+ 
+ --------------------------------------------------------
+ # FOR SIMULATION
+ 
+ ### EspeleoRobo V-REP's models:
+ - https://github.com/ITVRoC/espeleo_vrep_simulation
