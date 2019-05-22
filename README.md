@@ -32,6 +32,9 @@ Packages for EspeleoRobo's embedded computer.
 ### Install the Ouster 16 Lidar package on ROS:
  - https://github.com/ITVRoC/general-wiki/wiki/Rodar-o-LiDAR-OUSTER-16-no-ROS
  
+### Espeleo_planning
+- https://github.com/ITVRoC/espeleo_planning
+ 
 
  --------------------------------------------------------
  # INSTALL ON BASE COMPUTER
