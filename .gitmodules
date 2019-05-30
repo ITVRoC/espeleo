@@ -1,6 +1,6 @@
 [submodule "espeleo_io"]
 	path = espeleo_io
-	url = git@github.com:ITVRoC/espeleo_io.git
+	url = https://github.com/ITVRoC/espeleo_io.git
 
 [submodule "espeleo_teleop"]
 	path = espeleo_teleop
