@@ -1,21 +1,28 @@
-[submodule "espeleo_raspberry"]
-	path = espeleo_raspberry
-	url = https://github.com/ITVRoC/espeleo_raspberry.git
-[submodule "espeleo_nuc"]
-	path = espeleo_nuc
-	url = https://github.com/ITVRoC/espeleo_nuc.git
-[submodule "espeleo_rugged"]
-	path = espeleo_rugged
-	url = https://github.com/ITVRoC/espeleo_rugged.git
 [submodule "espeleo_io"]
 	path = espeleo_io
 	url = git@github.com:ITVRoC/espeleo_io.git
+
 [submodule "espeleo_teleop"]
 	path = espeleo_teleop
 	url = git@github.com:ITVRoC/espeleo_teleop.git
+
 [submodule "espeleo_locomotion"]
 	path = espeleo_locomotion
 	url = git@github.com:ITVRoC/espeleo_locomotion.git
+
 [submodule "espeleo_driver"]
 	path = espeleo_driver
 	url = git@github.com:ITVRoC/espeleo_driver.git
+
+[submodule "espeleo_planning"]
+	path = espeleo_planning
+	url = git@github.com:ITVRoC/espeleo_planning.git
+
+[submodule "espeleo_gui"]
+	path = espeleo_gui
+	url = git@github.com:ITVRoC/espeleo_gui.git
+
+[submodule "espeleo_vrep_simulation"]
+	path = espeleo_vrep_simulation
+	url = git@github.com:ITVRoC/espeleo_vrep_simulation.git
+
