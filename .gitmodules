@@ -4,3 +4,18 @@
 [submodule "espeleo_gui"]
 	path = espeleo_gui
 	url = https://github.com/ITVRoC/espeleo_gui.git
+[submodule "espeleo_io"]
+	path = espeleo_io
+	url = https://github.com/ITVRoC/espeleo_io.git
+[submodule "espeleo_teleop"]
+	path = espeleo_teleop
+	url = https://github.com/ITVRoC/espeleo_teleop.git
+[submodule "ros_eposmcd"]
+	path = ros_eposmcd
+	url = https://github.com/ITVRoC/ros_eposmcd.git
+[submodule "espeleo_locomotion"]
+	path = espeleo_locomotion
+	url = https://github.com/ITVRoC/espeleo_locomotion.git
+[submodule "espeleo_planning"]
+	path = espeleo_planning
+	url = https://github.com/ITVRoC/espeleo_planning.git
