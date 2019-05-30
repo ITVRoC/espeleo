@@ -10,19 +10,3 @@
 	path = espeleo_locomotion
 	url = git@github.com:ITVRoC/espeleo_locomotion.git
 
-[submodule "espeleo_driver"]
-	path = espeleo_driver
-	url = git@github.com:ITVRoC/espeleo_driver.git
-
-[submodule "espeleo_planning"]
-	path = espeleo_planning
-	url = git@github.com:ITVRoC/espeleo_planning.git
-
-[submodule "espeleo_gui"]
-	path = espeleo_gui
-	url = git@github.com:ITVRoC/espeleo_gui.git
-
-[submodule "espeleo_vrep_simulation"]
-	path = espeleo_vrep_simulation
-	url = git@github.com:ITVRoC/espeleo_vrep_simulation.git
-
