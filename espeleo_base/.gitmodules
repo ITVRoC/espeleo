@@ -1,0 +1,9 @@
+[submodule "espeleo_gui"]
+	path = espeleo_gui
+	url = https://github.com/ITVRoC/espeleo_gui.git
+[submodule "espeleo_teleop"]
+	path = espeleo_teleop
+	url = https://github.com/ITVRoC/espeleo_teleop.git
+[submodule "espeleo_msg_srv"]
+	path = espeleo_teleop
+	url = https://github.com/ITVRoC/espeleo_msg_srv.git
