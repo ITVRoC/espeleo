@@ -1,33 +1,20 @@
-# ESPELEOROBO'S MAIN REPOSITORY
+## ESPELEOROBO'S MAIN REPOSITORY
 
 This repository lists all EspeleoRobo's related repositories and wikis. 
 
 ---------------------------------------------------------
-## INSTALL ON ESPELEO 
+### INSTALL ON ESPELEO 
 
 Packages for EspeleoRobo's embedded computer.
 
-### FOR LOCOMOTION
-
-#### KACANOPEN to control the motors:
- - https://github.com/ITVRoC/kacanopen.git
+##### FOR LOCOMOTION
+* [KACANOPEN](https://github.com/ITVRoC/kacanopen.git) to control the motors
+* [ESPELEO_IO](https://github.com/ITVRoC/espeleo_io) to control the IOs
+* [ESPELEO_LOCOMOTION](https://github.com/ITVRoC/espeleo_locomotion) package 
  
-#### ESPELEO_IO to control the IOs:
- - https://github.com/ITVRoC/espeleo_io
- 
-#### ESPELEO_TELEOP to control the espeleo with joystick and keyboard:
- - https://github.com/ITVRoC/espeleo_teleop
- 
-#### ESPELEO_LOCOMOTION package 
- - https://github.com/ITVRoC/espeleo_locomotion
- 
-### FOR LOCALIZATION AND MAPPING
-
-#### Install the XSENS IMU driver:
- - https://github.com/ITVRoC/general-wiki/wiki/Rodar-IMU-XSens-no-ROS
- 
-#### Install the Ouster 16 Lidar package on ROS:
- - https://github.com/ITVRoC/general-wiki/wiki/Rodar-o-LiDAR-OUSTER-16-no-ROS
+##### FOR LOCALIZATION AND MAPPING
+* Install the [XSENS IMU driver](https://github.com/ITVRoC/general-wiki/wiki/Rodar-IMU-XSens-no-ROS)
+* Install the [Ouster 16 Lidar package](https://github.com/ITVRoC/general-wiki/wiki/Rodar-o-LiDAR-OUSTER-16-no-ROS) on ROS.
  
 #### Espeleo_planning
 - https://github.com/ITVRoC/espeleo_planning
@@ -41,6 +28,8 @@ Packages for EspeleoRobo's embedded computer.
  
  - https://github.com/ITVRoC/espeleo_gui
  
+ #### ESPELEO_TELEOP to control the espeleo with joystick and keyboard:
+ - https://github.com/ITVRoC/espeleo_teleop
 
  ## FOR SIMULATION
  
