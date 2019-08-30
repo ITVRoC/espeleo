@@ -22,3 +22,6 @@
 [submodule "ros_service_store_rtsp"]
 	path = ros_service_store_rtsp
 	url = https://github.com/ITVRoC/ros_service_store_rtsp.git
+[submodule "espeleo_base/espeleo_gui"]
+	path = espeleo_base/espeleo_gui
+	url = https://github.com/ITVRoC/espeleo_gui.git
