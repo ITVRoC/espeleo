@@ -4,7 +4,7 @@ This repository lists all EspeleoRobo's related repositories and wikis.
 -----------------------------------------------------------------------
 ### INSTALL PACKAGES ON EMBEDDED COMPUTER (ESPELEOROBO)
 
-#### FOR LOCOMOTION
+#### FOR LOCOMOTION (essential to function)
 * Clone and compile [kacanopen](https://github.com/ITVRoC/kacanopen.git) to control the motors.
 * Clone and compile [espeleo_io](https://github.com/ITVRoC/espeleo_io) to control the IOs.
 * Clone and compile [espeleo_locomotion](https://github.com/ITVRoC/espeleo_locomotion) to control espeleorobo.
@@ -17,7 +17,7 @@ This repository lists all EspeleoRobo's related repositories and wikis.
 -----------------------------------------------------------------------
 ### INSTALL PACKAGES ON BASE COMPUTER (RUGGED)
 
-#### FOR LOCOMOTION
+#### FOR LOCOMOTION (essential to function)
 * Clone and compile [espeleo_gui](https://github.com/ITVRoC/espeleo_gui) GUI Interface for ESPELEO.
 * Clone and compile [espeleo_teleop](https://github.com/ITVRoC/espeleo_teleop)  to control the espeleo with joystick and keyboard.
 * Clone and compile [espeleo_msg_srv](https://github.com/ITVRoC/espeleo_msg_srv.git) messages and services to espeleo.
