@@ -2,7 +2,6 @@
 
 This repository lists all EspeleoRobo's related repositories and wikis. 
 
-
 ---------------------------------------------------------
 ## INSTALL ON ESPELEO 
 
@@ -10,11 +9,8 @@ Packages for EspeleoRobo's embedded computer.
 
 ### FOR LOCOMOTION
 
-#### PCAN drivers to use CAN:
- - https://github.com/ITVRoC/espeleo/wiki/PCAN-driver-installation
-
-#### ROS_EPOSMCD to control the motors:
- - https://github.com/ITVRoC/ros_eposmcd
+#### KACANOPEN to control the motors:
+ - https://github.com/ITVRoC/kacanopen.git
  
 #### ESPELEO_IO to control the IOs:
  - https://github.com/ITVRoC/espeleo_io
@@ -50,30 +46,27 @@ Packages for EspeleoRobo's embedded computer.
  
  Packages for simulating EspeleoRobo.
  
- #### EspeleoRobo V-REP's models:
+ #### Espeleorobo V-REP's models:
  - https://github.com/ITVRoC/espeleo_vrep_simulation
  
  
  
  ------------------------------------------------------------------------
- # EspeleoRobo ROS Communication General Guide
+ # Espeleorobo ROS Communication General Guide
  
  This guide presents all nodes in EspeleoRobo, with its topics, messages and description.
  One may find a graphical representation [here](https://docs.google.com/presentation/d/1Lrz-dAwWeXqzpGeWaSDRkczdpwMNBig6JlObKeRsX5Q/edit#slide=id.p).
  
- ## motor_manager
+ ## kacanopen
  
  Provides a ROS interface to EPOS CAN functionalities.
  
   *Subscribed Topics*
-  * `/ros_eposmcd/position_movement_absolute` - `<ros_eposmcd_msgs/MovementArray>` - set joints absolute position in \[radians\].
-  * `/ros_eposmcd/position_movement_relative` - `<ros_eposmcd_msgs/MovementArray>` - set joints relative position with respect to the actual position, in \[radians\].
-  * `/ros_eposmcd/velocity_movement` - `<ros_eposmcd_msgs/MovementArray>` - set joints angular velocity in \[radians/second\].
+   TODO
   
- *Published Topics*
-  * `/ros_eposmcd/joints_positions` -  `<ros_eposmcd_msgs/EspeleoJoints>` - joints position in \[radians\].
+  *Published Topics*
+   TODO
   
-
  ## espeleo_locomotion
  
  Converts linear and angular velocities input to coordinated joints actions.
@@ -82,16 +75,4 @@ Packages for EspeleoRobo's embedded computer.
   * `/cmd_vel` - `<geometry_msgs/Twist>` - Receives linear (in \[m/s\]) and angular (in \[rad/s\]) commands.
   
  *Published Topics*
-  * `/ros_eposmcd/position_movement_absolute` - `<ros_eposmcd_msgs/MovementArray>` - set joints absolute position in \[radians\].
-  * `/ros_eposmcd/position_movement_relative` - `<ros_eposmcd_msgs/MovementArray>` - set joints relative position with respect to the actual position, in \[radians\].
-  * `/ros_eposmcd/velocity_movement` - `<ros_eposmcd_msgs/MovementArray>` - set joints angular velocity in \[radians/second\].
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
+  TODO
