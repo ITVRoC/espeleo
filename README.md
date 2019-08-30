@@ -2,7 +2,7 @@
 
 This repository lists all EspeleoRobo's related repositories and wikis. 
 
----------------------------------------------------------
+-----------------------------------------------------------------------
 ### INSTALL ON ESPELEO 
 Packages for EspeleoRobo's embedded computer.
 
@@ -16,28 +16,26 @@ Packages for EspeleoRobo's embedded computer.
 * Install the [Ouster 16 Lidar](https://github.com/ITVRoC/general-wiki/wiki/Rodar-o-LiDAR-OUSTER-16-no-ROS).
 * Clone and install [Espeleo_planning](https://github.com/ITVRoC/espeleo_planning).
 
-
+-----------------------------------------------------------------------
 ### INSTALL ON BASE COMPUTER
- Packages for base computer.
+Packages for base computer.
 
 * Clone and install [ESPELEO_GUI](https://github.com/ITVRoC/espeleo_gui) GUI Interface for ESPELEO.
 * Clone and install [ESPELEO_TELEOP](https://github.com/ITVRoC/espeleo_teleop)  to control the espeleo with joystick and keyboard.
 
-
-### FOR SIMULATION
+##### FOR SIMULATION
 Packages for simulating EspeleoRobo.
 
 * Espeleorobo [V-REP's models](https://github.com/ITVRoC/espeleo_vrep_simulation).
  
  
- ------------------------------------------------------------------------
+-----------------------------------------------------------------------
  # Espeleorobo ROS Communication General Guide
  
  This guide presents all nodes in EspeleoRobo, with its topics, messages and description.
  One may find a graphical representation [here](https://docs.google.com/presentation/d/1Lrz-dAwWeXqzpGeWaSDRkczdpwMNBig6JlObKeRsX5Q/edit#slide=id.p).
  
- ## kacanopen
- 
+ #### kacanopen
  Provides a ROS interface to EPOS CAN functionalities.
  
   *Subscribed Topics*
@@ -46,8 +44,7 @@ Packages for simulating EspeleoRobo.
   *Published Topics*
    TODO
   
- ## espeleo_locomotion
- 
+ #### espeleo_locomotion
  Converts linear and angular velocities input to coordinated joints actions.
  
  *Subscribed Topics*
