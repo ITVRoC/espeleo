@@ -6,12 +6,12 @@ This repository lists all EspeleoRobo's related repositories and wikis.
 ### INSTALL ON ESPELEO 
 Packages for EspeleoRobo's embedded computer.
 
-##### FOR LOCOMOTION
+#### FOR LOCOMOTION
 * Clone and install [KACANOPEN](https://github.com/ITVRoC/kacanopen.git) to control the motors.
 * Clone and install [ESPELEO_IO](https://github.com/ITVRoC/espeleo_io) to control the IOs.
 * Clone and install [ESPELEO_LOCOMOTION](https://github.com/ITVRoC/espeleo_locomotion) to control espeleorobo.
  
-##### FOR LOCALIZATION AND MAPPING
+#### FOR LOCALIZATION AND MAPPING
 * Install the [XSENS IMU driver](https://github.com/ITVRoC/general-wiki/wiki/Rodar-IMU-XSens-no-ROS).
 * Install the [Ouster 16 Lidar](https://github.com/ITVRoC/general-wiki/wiki/Rodar-o-LiDAR-OUSTER-16-no-ROS).
 * Clone and install [Espeleo_planning](https://github.com/ITVRoC/espeleo_planning).
@@ -20,10 +20,11 @@ Packages for EspeleoRobo's embedded computer.
 ### INSTALL ON BASE COMPUTER
 Packages for base computer.
 
+#### FOR LOCOMOTION
 * Clone and install [ESPELEO_GUI](https://github.com/ITVRoC/espeleo_gui) GUI Interface for ESPELEO.
 * Clone and install [ESPELEO_TELEOP](https://github.com/ITVRoC/espeleo_teleop)  to control the espeleo with joystick and keyboard.
 
-##### FOR SIMULATION
+#### FOR SIMULATION
 Packages for simulating EspeleoRobo.
 
 * Espeleorobo [V-REP's models](https://github.com/ITVRoC/espeleo_vrep_simulation).
