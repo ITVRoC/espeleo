@@ -4,40 +4,30 @@ This repository lists all EspeleoRobo's related repositories and wikis.
 
 ---------------------------------------------------------
 ### INSTALL ON ESPELEO 
-
 Packages for EspeleoRobo's embedded computer.
 
 ##### FOR LOCOMOTION
-* [KACANOPEN](https://github.com/ITVRoC/kacanopen.git) to control the motors
-* [ESPELEO_IO](https://github.com/ITVRoC/espeleo_io) to control the IOs
-* [ESPELEO_LOCOMOTION](https://github.com/ITVRoC/espeleo_locomotion) package 
+* Clone and install [KACANOPEN](https://github.com/ITVRoC/kacanopen.git) to control the motors.
+* Clone and install [ESPELEO_IO](https://github.com/ITVRoC/espeleo_io) to control the IOs.
+* Clone and install [ESPELEO_LOCOMOTION](https://github.com/ITVRoC/espeleo_locomotion) to control espeleorobo.
  
 ##### FOR LOCALIZATION AND MAPPING
-* Install the [XSENS IMU driver](https://github.com/ITVRoC/general-wiki/wiki/Rodar-IMU-XSens-no-ROS)
-* Install the [Ouster 16 Lidar package](https://github.com/ITVRoC/general-wiki/wiki/Rodar-o-LiDAR-OUSTER-16-no-ROS) on ROS.
- 
-#### Espeleo_planning
-- https://github.com/ITVRoC/espeleo_planning
- 
+* Install the [XSENS IMU driver](https://github.com/ITVRoC/general-wiki/wiki/Rodar-IMU-XSens-no-ROS).
+* Install the [Ouster 16 Lidar](https://github.com/ITVRoC/general-wiki/wiki/Rodar-o-LiDAR-OUSTER-16-no-ROS).
+* Clone and install [Espeleo_planning](https://github.com/ITVRoC/espeleo_planning).
 
- ## INSTALL ON BASE COMPUTER
- 
+
+### INSTALL ON BASE COMPUTER
  Packages for base computer.
- 
- #### GUI Interface for ESPELEO
- 
- - https://github.com/ITVRoC/espeleo_gui
- 
- #### ESPELEO_TELEOP to control the espeleo with joystick and keyboard:
- - https://github.com/ITVRoC/espeleo_teleop
 
- ## FOR SIMULATION
- 
- Packages for simulating EspeleoRobo.
- 
- #### Espeleorobo V-REP's models:
- - https://github.com/ITVRoC/espeleo_vrep_simulation
- 
+* Clone and install [ESPELEO_GUI](https://github.com/ITVRoC/espeleo_gui) GUI Interface for ESPELEO.
+* Clone and install [ESPELEO_TELEOP](https://github.com/ITVRoC/espeleo_teleop)  to control the espeleo with joystick and keyboard.
+
+
+### FOR SIMULATION
+Packages for simulating EspeleoRobo.
+
+* Espeleorobo [V-REP's models](https://github.com/ITVRoC/espeleo_vrep_simulation).
  
  
  ------------------------------------------------------------------------
