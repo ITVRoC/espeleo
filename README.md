@@ -5,21 +5,22 @@ This repository lists all EspeleoRobo's related repositories and wikis.
 ### INSTALL PACKAGES ON EMBEDDED COMPUTER (ESPELEOROBO)
 
 #### FOR LOCOMOTION
-* Clone and install [kacanopen](https://github.com/ITVRoC/kacanopen.git) to control the motors.
-* Clone and install [espeleo_io](https://github.com/ITVRoC/espeleo_io) to control the IOs.
-* Clone and install [espeleo_locomotion](https://github.com/ITVRoC/espeleo_locomotion) to control espeleorobo.
+* Clone and compile [kacanopen](https://github.com/ITVRoC/kacanopen.git) to control the motors.
+* Clone and compile [espeleo_io](https://github.com/ITVRoC/espeleo_io) to control the IOs.
+* Clone and compile [espeleo_locomotion](https://github.com/ITVRoC/espeleo_locomotion) to control espeleorobo.
  
 #### FOR LOCALIZATION AND MAPPING
 * Install the driver [xsens imu](https://github.com/ITVRoC/general-wiki/wiki/Rodar-IMU-XSens-no-ROS).
 * Install the [ouster 16 lidar](https://github.com/ITVRoC/general-wiki/wiki/Rodar-o-LiDAR-OUSTER-16-no-ROS).
-* Clone and install [espeleo_planning](https://github.com/ITVRoC/espeleo_planning).
+* Clone and compile [espeleo_planning](https://github.com/ITVRoC/espeleo_planning).
 
 -----------------------------------------------------------------------
 ### INSTALL PACKAGES ON BASE COMPUTER (RUGGED)
 
 #### FOR LOCOMOTION
-* Clone and install [espeleo_gui](https://github.com/ITVRoC/espeleo_gui) GUI Interface for ESPELEO.
-* Clone and install [espeleo_teleop](https://github.com/ITVRoC/espeleo_teleop)  to control the espeleo with joystick and keyboard.
+* Clone and compile [espeleo_gui](https://github.com/ITVRoC/espeleo_gui) GUI Interface for ESPELEO.
+* Clone and compile [espeleo_teleop](https://github.com/ITVRoC/espeleo_teleop)  to control the espeleo with joystick and keyboard.
+* Clone and compile [espeleo_msg_srv](https://github.com/ITVRoC/espeleo_msg_srv.git) messages and services to espeleo.
 
 #### FOR SIMULATION
 * Espeleorobo [v-rep's models](https://github.com/ITVRoC/espeleo_vrep_simulation).
