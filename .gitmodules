@@ -1,24 +1,15 @@
 [submodule "espeleo_vrep_simulation"]
 	path = espeleo_vrep_simulation
 	url = https://github.com/ITVRoC/espeleo_vrep_simulation.git
-[submodule "espeleo_io"]
-	path = espeleo_io
-	url = https://github.com/ITVRoC/espeleo_io.git
 [submodule "ros_eposmcd"]
 	path = ros_eposmcd
 	url = https://github.com/ITVRoC/ros_eposmcd.git
-[submodule "espeleo_locomotion"]
-	path = espeleo_locomotion
-	url = https://github.com/ITVRoC/espeleo_locomotion.git
 [submodule "espeleo_planning"]
 	path = espeleo_planning
 	url = https://github.com/ITVRoC/espeleo_planning.git
 [submodule "espeleo_navigation"]
 	path = espeleo_navigation
 	url = https://github.com/ITVRoC/espeleo_navigation.git
-[submodule "ros_service_store_rtsp"]
-	path = ros_service_store_rtsp
-	url = https://github.com/ITVRoC/ros_service_store_rtsp.git
 [submodule "espeleo_base/espeleo_gui"]
 	path = espeleo_base/espeleo_gui
 	url = https://github.com/ITVRoC/espeleo_gui.git
@@ -31,3 +22,12 @@
 [submodule "espeleo_embedded/espeleo_bringup"]
 	path = espeleo_embedded/espeleo_bringup
 	url = https://github.com/ITVRoC/espeleo_bringup.git
+[submodule "espeleo_embedded/espeleo_io"]
+	path = espeleo_embedded/espeleo_io
+	url = https://github.com/ITVRoC/espeleo_io.git
+[submodule "espeleo_embedded/espeleo_locomotion"]
+	path = espeleo_embedded/espeleo_locomotion
+	url = https://github.com/ITVRoC/espeleo_locomotion.git
+[submodule "espeleo_embedded/ros_service_store_rtsp"]
+	path = espeleo_embedded/ros_service_store_rtsp
+	url = https://github.com/ITVRoC/ros_service_store_rtsp.git
