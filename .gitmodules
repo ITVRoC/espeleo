@@ -13,9 +13,6 @@
 [submodule "espeleo_planning"]
 	path = espeleo_planning
 	url = https://github.com/ITVRoC/espeleo_planning.git
-[submodule "espeleo_bringup"]
-	path = espeleo_bringup
-	url = https://github.com/ITVRoC/espeleo_bringup.git
 [submodule "espeleo_navigation"]
 	path = espeleo_navigation
 	url = https://github.com/ITVRoC/espeleo_navigation.git
@@ -31,3 +28,6 @@
 [submodule "espeleo_base/espeleo_teleop"]
 	path = espeleo_base/espeleo_teleop
 	url = https://github.com/ITVRoC/espeleo_teleop.git
+[submodule "espeleo_embedded/espeleo_bringup"]
+	path = espeleo_embedded/espeleo_bringup
+	url = https://github.com/ITVRoC/espeleo_bringup.git
