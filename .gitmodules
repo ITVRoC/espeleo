@@ -28,3 +28,6 @@
 [submodule "espeleo_embedded/ros_service_store_rtsp"]
 	path = espeleo_embedded/ros_service_store_rtsp
 	url = https://github.com/ITVRoC/ros_service_store_rtsp.git
+[submodule "espeleo_embedded/kacanopen"]
+	path = espeleo_embedded/kacanopen
+	url = https://github.com/ITVRoC/kacanopen.git
