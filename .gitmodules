@@ -1,9 +1,6 @@
 [submodule "espeleo_vrep_simulation"]
 	path = espeleo_vrep_simulation
 	url = https://github.com/ITVRoC/espeleo_vrep_simulation.git
-[submodule "ros_eposmcd"]
-	path = ros_eposmcd
-	url = https://github.com/ITVRoC/ros_eposmcd.git
 [submodule "espeleo_planning"]
 	path = espeleo_planning
 	url = https://github.com/ITVRoC/espeleo_planning.git
