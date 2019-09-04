@@ -19,6 +19,3 @@
 [submodule "espeleo_embedded/kacanopen"]
 	path = espeleo_embedded/kacanopen
 	url = https://github.com/ITVRoC/kacanopen.git
-[submodule "espeleo_msg_srv"]
-	path = espeleo_msg_srv
-	url = https://github.com/ITVRoC/espeleo_msg_srv.git
