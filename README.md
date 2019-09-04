@@ -1,5 +1,9 @@
 ## ESPELEOROBO'S MAIN REPOSITORY
 This repository lists all EspeleoRobo's related repositories and wikis. 
+-----------------------------------------------------------------------
+##### building
+git clone --recurse-submodules https://github.com/ITVRoC/espeleo.git
+git submodule foreach --recursive git checkout master
 
 -----------------------------------------------------------------------
 ### INSTALL PACKAGES ON EMBEDDED COMPUTER (ESPELEOROBO)
