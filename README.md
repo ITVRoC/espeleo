@@ -1,13 +1,16 @@
 ## ESPELEOROBO'S MAIN REPOSITORY
 This repository lists all EspeleoRobo's related repositories and wikis. 
 -----------------------------------------------------------------------
-##### building
+
+-----------------------------------------------------------------------
+### INSTALL PACKAGES ON EMBEDDED COMPUTER (ESPELEOROBO)
+
+##### copy and paste into terminal to have necessary packages in workspace (ESPELEOROBO)
 ```
+cd ~/catkin_ws/src/
 git clone --recurse-submodules https://github.com/ITVRoC/espeleo.git
 git submodule foreach --recursive git checkout master
 ```
------------------------------------------------------------------------
-### INSTALL PACKAGES ON EMBEDDED COMPUTER (ESPELEOROBO)
 
 #### FOR LOCOMOTION (essential to function)
 * Clone and compile [kacanopen](https://github.com/ITVRoC/kacanopen.git) to control the motors.
