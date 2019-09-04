@@ -7,6 +7,7 @@
 [submodule "espeleo_embedded/espeleo_bringup"]
 	path = espeleo_embedded/espeleo_bringup
 	url = https://github.com/ITVRoC/espeleo_bringup.git
+	branch = master
 [submodule "espeleo_embedded/espeleo_io"]
 	path = espeleo_embedded/espeleo_io
 	url = https://github.com/ITVRoC/espeleo_io.git
