@@ -9,6 +9,7 @@ This repository lists all EspeleoRobo's related repositories and wikis.
 ```
 cd ~/catkin_ws/src/
 git clone --recurse-submodules https://github.com/ITVRoC/espeleo.git
+cd espeleo/
 git submodule foreach --recursive git checkout master
 ```
 
