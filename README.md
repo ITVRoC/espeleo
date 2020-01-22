@@ -51,7 +51,7 @@ Provides a ROS interface to EPOS CAN functionalities.
   TODO
   
 #### Reseting motors
-Solution to fault motors
+Provides solution to fault motors
 
 [Wiki](https://github.com/ITVRoC/espeleo/wiki/Fault-motors)
 
