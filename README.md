@@ -51,9 +51,7 @@ Provides a ROS interface to EPOS CAN functionalities.
   TODO
   
 #### Reseting motors
-Provides solution to fault motors
-
-[Wiki](https://github.com/ITVRoC/espeleo/wiki/Fault-motors)
+Provides [solution to fault motors](https://github.com/ITVRoC/espeleo/wiki/Fault-motors)
 
 #### espeleo_locomotion
 Converts linear and angular velocities input to coordinated joints actions.
