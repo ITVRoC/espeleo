@@ -1,35 +1,40 @@
-[submodule "espeleo_base/espeleo_gui"]
-	path = espeleo_base/espeleo_gui
+[submodule "espeleo_gui"]
+	path = espeleo_gui/espeleo_gui
 	url = https://github.com/ITVRoC/espeleo_gui.git
 	branch = master
-[submodule "espeleo_base/espeleo_teleop"]
-	path = espeleo_base/espeleo_teleop
+[submodule "espeleo_teleop"]
+	path = espeleo_teleop/espeleo_teleop
 	url = https://github.com/ITVRoC/espeleo_teleop.git
 	branch = master
-[submodule "espeleo_embedded/espeleo_bringup"]
-	path = espeleo_embedded/espeleo_bringup
+[submodule "espeleo_bringup"]
+	path = espeleo_bringup/espeleo_bringup
 	url = https://github.com/ITVRoC/espeleo_bringup.git
 	branch = master
-[submodule "espeleo_embedded/espeleo_io"]
-	path = espeleo_embedded/espeleo_io
+[submodule "espeleo_io"]
+	path = espeleo_io/espeleo_io
 	url = https://github.com/ITVRoC/espeleo_io.git
 	branch = master
-[submodule "espeleo_embedded/espeleo_locomotion"]
-	path = espeleo_embedded/espeleo_locomotion
+[submodule "espeleo_locomotion"]
+	path = espeleo_locomotion/espeleo_locomotion
 	url = https://github.com/ITVRoC/espeleo_locomotion.git
 	branch = master
-[submodule "espeleo_embedded/ros_service_store_rtsp"]
-	path = espeleo_embedded/ros_service_store_rtsp
+[submodule "ros_service_store_rtsp"]
+	path = ros_service_store_rtsp/ros_service_store_rtsp
 	url = https://github.com/ITVRoC/ros_service_store_rtsp.git
 	branch = master
-[submodule "espeleo_embedded/kacanopen"]
-	path = espeleo_embedded/kacanopen
+[submodule "kacanopen"]
+	path = kacanopen/kacanopen
 	url = https://github.com/ITVRoC/kacanopen.git
 	branch = master
 [submodule "espeleo_msg_srv"]
 	path = espeleo_msg_srv
 	url = https://github.com/ITVRoC/espeleo_msg_srv.git
 	branch = master
-[submodule "espeleo_embedded/espeleo_navigation"]
-	path = espeleo_embedded/espeleo_navigation
-	url = https://github.com/ITVRoC/espeleo_navigation
+[submodule "espeleo_description"]
+	path = espeleo_description
+	url = https://github.com/itvroc/espeleo_description
+	branch = master
+[submodule "espeleo_vrep_simulation"]
+	path = espeleo_vrep_simulation
+	url = https://github.com/ITVRoC/espeleo_vrep_simulation
+	branch = master
