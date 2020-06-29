@@ -1,8 +1,8 @@
 ## ESPELEOROBO'S MAIN REPOSITORY
 This repository lists all EspeleoRobo's related repositories and wikis. 
------------------------------------------------------------------------
 
 -----------------------------------------------------------------------
+
 ### INSTALL PACKAGES ON EMBEDDED COMPUTER (ESPELEOROBO)
 
 ##### copy and paste into terminal to have necessary packages in workspace (ESPELEOROBO)
@@ -36,6 +36,7 @@ git submodule foreach --recursive git checkout master
  
  
 -----------------------------------------------------------------------
+
 ## Espeleorobo ROS Communication General Guide
  
 This guide presents all nodes in EspeleoRobo, with its topics, messages and description.
@@ -61,3 +62,12 @@ Converts linear and angular velocities input to coordinated joints actions.
   
 *Published Topics*
  TODO
+
+-----------------------------------------------------------------------
+
+## Update remote submodule versions
+To update the submodules to the current master branch execute the following code:
+```
+cd espeleo/
+git submodule update --recursive --remote
+```
