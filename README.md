@@ -13,6 +13,11 @@ cd espeleo/
 git submodule foreach --recursive git checkout master
 ```
 
+##### update all submodules
+```
+git submodule update --init --recursive
+git submodule update --recursive
+```
 
 ##### verify if all ros dependencies are installed
 ```
