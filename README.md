@@ -15,8 +15,7 @@ git submodule foreach --recursive git checkout master
 
 ##### update all submodules
 ```
-git submodule update --init --recursive
-git submodule update --recursive
+git submodule foreach git pull origin master
 ```
 
 ##### verify if all ros dependencies are installed
