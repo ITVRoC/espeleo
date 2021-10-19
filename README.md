@@ -23,9 +23,14 @@ git submodule foreach git pull origin master
 rosdep install --from-paths src --ignore-src -r -y
 ```
 
-##### 4. follow espeleo bringup wiki
+##### 4. follow espeleo bringup wiki to configure startup services
 
 https://github.com/ITVRoC/espeleo_bringup
+
+
+##### 5. follow espeleo wiki to create UDEV rules for usb devices
+
+https://github.com/ITVRoC/espeleo/wiki/Create-symbolic-link-to-espeleo-find-USB-devices-by-name-UDEV-Rules
 
 -----------------------------------------------------------------------
 
