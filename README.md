@@ -13,6 +13,12 @@ cd espeleo/
 git submodule foreach --recursive git checkout master
 ```
 
+
+##### verify if all ros dependencies are installed
+```
+rosdep install --from-paths src --ignore-src -r -y
+```
+
 #### FOR LOCOMOTION (essential to function)
 * Clone and compile [kacanopen](https://github.com/ITVRoC/kacanopen.git) to control the motors.
 * Clone and compile [espeleo_io](https://github.com/ITVRoC/espeleo_io) to control the IOs.
