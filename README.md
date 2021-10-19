@@ -5,7 +5,7 @@ This repository lists all EspeleoRobo's related repositories and wikis.
 
 ### INSTALL PACKAGES ON EMBEDDED COMPUTER (ESPELEOROBO)
 
-##### copy and paste into terminal to have necessary packages in workspace (ESPELEOROBO)
+##### 1. copy and paste into terminal to have necessary packages in workspace (ESPELEOROBO)
 ```
 cd ~/catkin_ws/src/
 git clone --recurse-submodules https://github.com/ITVRoC/espeleo.git
@@ -13,15 +13,26 @@ cd espeleo/
 git submodule foreach --recursive git checkout master
 ```
 
-##### update all submodules
+##### 2. update all submodules
 ```
 git submodule foreach git pull origin master
 ```
 
-##### verify if all ros dependencies are installed
+##### 3. verify if all ros dependencies are installed
 ```
 rosdep install --from-paths src --ignore-src -r -y
 ```
+
+##### 4. follow espeleo bringup wiki to configure startup services
+
+https://github.com/ITVRoC/espeleo_bringup
+
+
+##### 5. follow espeleo wiki to create UDEV rules for usb devices
+
+https://github.com/ITVRoC/espeleo/wiki/Create-symbolic-link-to-espeleo-find-USB-devices-by-name-UDEV-Rules
+
+-----------------------------------------------------------------------
 
 #### FOR LOCOMOTION (essential to function)
 * Clone and compile [kacanopen](https://github.com/ITVRoC/kacanopen.git) to control the motors.
