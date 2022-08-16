@@ -6,10 +6,6 @@
 	path = espeleo_description
 	url = https://github.com/itvroc/espeleo_description
 	branch = master
-[submodule "espeleo_vrep_simulation"]
-	path = espeleo_vrep_simulation
-	url = https://github.com/ITVRoC/espeleo_vrep_simulation
-	branch = master
 [submodule "espeleo_bringup"]
 	path = espeleo_bringup
 	url = https://github.com/itvroc/espeleo_bringup
